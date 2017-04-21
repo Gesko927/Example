@@ -6,15 +6,15 @@ using System.Threading.Tasks;
 
 namespace GitExample
 {
-    class A
+    class C
     {
         private string name;
-        private double number;
+        private double number2;
         private int count;
-        public A()
+        public C()
         {
-            name = "A ver 2.0";
-            number = 1.0;
+            name = "B";
+            number2 = 1.0;
             count = 1;
         }
     }
