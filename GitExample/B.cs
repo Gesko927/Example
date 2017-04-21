@@ -13,9 +13,9 @@ namespace GitExample
         private int count;
         public B()
         {
-            name = "B";
-            number2 = 1.0;
-            count = 1;
+            name = "B ver 2.0";
+            number2 = 5.0;
+            count = 2;
         }
 
     }
